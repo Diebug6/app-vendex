@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Vendex</string>
+    <string name="login">Porfavor, ingrese sus datos para iniciar sesion</string>
+    <string name="login_hint_name">Nombre de usuario</string>
+    <string name="login_hint_pass">Contraseña</string>
+    <string name="btn_iniciar">Ingresar</string>
+    <string name="btn_registrarse">Registrarse</string>
+    <string name="btn_olvide">Olvide mi contraseña</string>
+    <string name="sing_nombre">Nombres:</string>
+    <string name="sing_apellido">Apellidos:</string>
+    <string name="sing_rut">Rut:</string>
+    <string name="sing_correo">Correo:</string>
+    <string name="sing_telefono">Telefono:</string>
+    <string name="sing_pass">Confirmar:</string>
+    <string name="sing_conf_pass">Contraseña:</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="btn_login_google">Login con Google</string>
+    <string name="btn_login_facebook">Login con Facebook</string>
+    <string name="btn_recomiendanos">Recomiendanos</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_realiar">Comprar</string>
+    <string name="btn_agregar">Agregar maquina</string>
+    <string name="btn_reportar">Reportar maquina</string>
+    <string name="btn_perfil">Perfil</string>
+    <string name="title_activity_map">Map</string>
+    <string name="transaccion_saldo">Saldo: 15000 CLP</string>
+    <string name="transaccion_producto">Producto: Coca-cola 591 c.c.</string>
+    <string name="transaccion_descuento">Descuento VenDex: 10%</string>
+    <string name="transaccion_total">Total: 900 CLP</string>
+    <string name="transaccion_saldo_post">Saldo post venta: 14100 CLP</string>
+    <string name="btn_recomendar">Recomendar</string>
+</resources>
